@@ -1,0 +1,3 @@
+[submodule "Assets/YunityFramework"]
+	path = Assets/YunityFramework
+	url = https://github.com/BoBoBlack/YunityFramework.git
