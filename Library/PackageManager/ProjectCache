@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637570770979298464
-    m_Hash: 1641546182
+      ticks: 637570782451852821
+    m_Hash: 4070978512
   m_LockFileStatus:
     m_FilePath: D:/UnityProjects/YunityFrameworkTest/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637570771050371746
-    m_Hash: 3361483188
+      ticks: 637570782451862827
+    m_Hash: 3553754605
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
