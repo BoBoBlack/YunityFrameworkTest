@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityGameFramework.Runtime", "UnityGameFramework.Runtime.csproj", "{4F7FB3F4-5749-0C75-F877-0DFA93466360}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{C0C29C6E-4BE8-7F11-BA2D-0287D3307263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityGameFramework.Editor", "UnityGameFramework.Editor.csproj", "{C32F646D-C7C9-C60F-12EB-2D5A83F72E6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F7FB3F4-5749-0C75-F877-0DFA93466360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7FB3F4-5749-0C75-F877-0DFA93466360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7FB3F4-5749-0C75-F877-0DFA93466360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7FB3F4-5749-0C75-F877-0DFA93466360}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0C29C6E-4BE8-7F11-BA2D-0287D3307263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C29C6E-4BE8-7F11-BA2D-0287D3307263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C29C6E-4BE8-7F11-BA2D-0287D3307263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C29C6E-4BE8-7F11-BA2D-0287D3307263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C32F646D-C7C9-C60F-12EB-2D5A83F72E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32F646D-C7C9-C60F-12EB-2D5A83F72E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32F646D-C7C9-C60F-12EB-2D5A83F72E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32F646D-C7C9-C60F-12EB-2D5A83F72E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
